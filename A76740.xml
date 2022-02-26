@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes from Smith the Oxford jaylor. With the arraignment of Mercurius Aulicus, who is sentenced to stand in the pillory three market dayes, for his notorious libelling against state and kingdome.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76740</idno>
+            <idno type="STC">Wing B2969</idno>
+            <idno type="STC">Thomason E27_13</idno>
+            <idno type="STC">ESTC R10371</idno>
+            <idno type="EEBO-CITATION">99858826</idno>
+            <idno type="PROQUEST">99858826</idno>
+            <idno type="VID">110885</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76740)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110885)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 5:E27[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes from Smith the Oxford jaylor. With the arraignment of Mercurius Aulicus, who is sentenced to stand in the pillory three market dayes, for his notorious libelling against state and kingdome.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mercurius Aulicus is a work by John Birkenhead.  Cf. DNB.</note>
+                  <note>Annotation on Thomason copy: the 5 in imprint date is crossed out and altered to 1644; "Feb: 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Birkenhead, John, --  Sir, 1616-1679.</term>
+               <term>Libel and slander --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110885:1"/>
+            <pb facs="tcp:110885:1" rendition="simple:additions"/>
+            <p>News from SMITH THE OXFORD JAYLOR. WITH THE Arraignment of <hi>Mercurius Aulicus,</hi> who is ſentenced to ſtand in the Pillory three Market daves, for his notorious Libelling againſt State and Kingdome.</p>
+            <figure>
+               <figDesc>a king stands in the pillory, surrounded by men with pikes</figDesc>
+            </figure>
+            <p>London, Printed for <hi>J. B.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110885:2"/>
+            <pb n="3" facs="tcp:110885:2"/>
+            <head>Newes from SMITH the <hi>OXFORD</hi> Iaylor.</head>
+            <sp>
+               <speaker>GENTLEMAN:</speaker>
+               <p>
+                  <seg rend="decorInit">C</seg>Aptaine <hi>Smith</hi> what newes is this that's ſtiring now in Court?</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Newes ſaid you, I heare of none to day.</p>
+            </sp>
+            <sp>
+               <speaker>Gent.</speaker>
+               <p>I heard an inkling the laſt night, which makes me bold to in<g ref="char:EOLhyphen"/>quire of you if there were any that's certaine, you would heare it, I hope you are not offended.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Sir you are miſtaken in me, I am not ſo ſoone offended unleſſe it be with thoſe <hi>Round-heads</hi> I have in cuſtody, when they never leave bawling at me for bread and water, or to have a peeping hole, whereby to have the benefit of our <hi>Oxford</hi> aire yet Heaven knowes I have been ſo much uſed to it, as I have ſtop<g ref="char:EOLhyphen"/>ped my eares with a little hard hear <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edneſſe and let them call til their Soules fly to another World: I thinke I do them a better deed then to releeve them with ſome ſmall pittance to keep them alive til they have gained their own Liberty. But by this meanes I have gained a diviliſh many of curſes, both of the Fatherleſſe and Widdowes. And now I talke of women it brings into my mind ſome newes I heard laſt night, which is the worſt that ever came to <hi>Oxford,</hi> (unleſſe the bumbaſting news which came from <hi>Yorke,</hi> where we were beaten black and blew) but I will not tell it you unleſſe you will ſweare damnably you will not report it againe, as from me for tis keept mighty ſecret as yet it is concerning <hi>Mercurius Aulicus</hi> that renowned <hi>Oxonian</hi> (though a blaſphe<g ref="char:EOLhyphen"/>mous and lying Pamphileteer) certainly you know him, tis he that writ of the Victories, that were obtained againſt the <hi>Round-Heads</hi> at <hi>Edghill, Lands-downe,</hi> and <hi>Taghill, Arundell-Caſtle, Charington-downe</hi> and <hi>Yorke, I</hi> will whiſper this in his behalfe
+<pb n="4" facs="tcp:110885:3"/>That at neither of theſe pieces we did not loſe above one hundred men for their one man. Wherefore I conceive they were very remarkable victories, &amp; be choſe the moſt remarkable day in all the weeke for the ſtudying of his rewes (by reaſon he could not ſo aptly ſtudie untruths of no other day then that whereon he ſhould be doing God better ſervice) But alas, poore <hi>Aulicus</hi> is utterly ruinated, although he had a very ſignificant title of the winged God and Court Meſſenger, for diſperſing lyes with ſuch winged ſpeed through the kingdome; yet for his ambition, in aſpi<g ref="char:EOLhyphen"/>ring above his reach, he is now with <hi>Icarus</hi> falne, ſilenc't by <hi>Britanicus,</hi> his body ſeized, and eſtate and Librarie ſeque<g ref="char:EOLhyphen"/>ſtred, to be diſpoſed for charitable uſes, to the two forrein Princes, <hi>Rupert</hi> and <hi>Maurice,</hi> towards the maintenance of our blood-thirſtie plundering Religion, to the new Lord <hi>Iermyn,</hi> the Lo: <hi>Cottington</hi> and the Lo: <hi>Digby,</hi> and our va<g ref="char:EOLhyphen"/>liant <hi>welch</hi> and ſore oppreſſed <hi>Corniſh</hi> ſouldiers, to the end they may ſtoutly withſtand his Maieſties faithful ſubiects who ſtand for his Parliament ſitting at <hi>Weſtminſter,</hi> &amp; not endure that our curſed Hierarchie be brought to predeſti<g ref="char:EOLhyphen"/>nated and deſerved ſhame and ignominie. Prince <hi>Ruperts</hi> ſhare in this benevolence, ſhall be payd to his Doctor for the Antidote he gave him to purge his luxurious body, and comfort his drooping ſpirit on the day of <hi>York</hi> b ttell, and two of the pamphlets (for him and his brother <hi>Maurice</hi>) which <hi>Aulicus</hi> writ in praiſe of their victories, to carry with them to <hi>Venus</hi> ſhrine in <hi>Venice,</hi> to ſhew their Ladies of pleaſure when they are baniſhed this Kingdome: The very abſtracted quinteſſence of all his <hi>Mercuries,</hi> to that politique Head &amp; <hi>Hiſoaniolized</hi> Lord <hi>Don Diego Cotting<g ref="char:EOLhyphen"/>ton,</hi> whoſe c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt-downe looks tell us there is ſome fine <hi>Spa<g ref="char:EOLhyphen"/>niſh</hi> trick hatching, to which the whore of <hi>Babylon</hi> ſhal be Mother. For the new-made Lord. <hi>Iermyn,</hi> here is no game
+<pb n="5" facs="tcp:110885:3"/>for ſuch Cock-Sparrowes in <hi>England,</hi> he ſhall have ſhare in the two Crownes on the Frontiſpiece of <hi>Aulicus</hi> his <hi>Paſquill,</hi> to beare his charges till he comes to his old Lod<g ref="char:EOLhyphen"/>ging in the <hi>Queenes Armes</hi> at <hi>Paris.</hi> To the Lo: <hi>Digby</hi> (a bird of the ſame feather) all the ſeditious ſcandalous mat<g ref="char:EOLhyphen"/>ter that ever <hi>Aulicus</hi> head-piece hammer'd in the Anvill of his owne Coxcombe; that he, being a great Souldier, may act what the others little Head hath invented: To the valiant <hi>Welch,</hi> and oppreſſed <hi>Corniſh</hi> ſouldlers, all the annuall profits which can be made of his eſtate and Li<g ref="char:EOLhyphen"/>brarie, ſhall be equally ſhared among them, to the end they may have ſome ſatisfaction, for that <hi>Aulicus</hi> hath not (according to his wonted courſe) in his ſpurious Li<g ref="char:EOLhyphen"/>bels made their names infamous (famous I would have ſaid) for the glorious and moſt renowned Victorie lately obtained againſt Colonel <hi>Browne</hi> at <hi>Abbington:</hi> For which negligence, the <hi>Corniſh</hi> women have Articled a<g ref="char:EOLhyphen"/>gainſt him, and reckoned, up all his old Scores, arraig<g ref="char:EOLhyphen"/>ning him publiquely at their Tribunall at <hi>Brazen-Noſe, alias</hi> Brazen-fac't Hall in <hi>Oxford.</hi> And truly, I can<g ref="char:EOLhyphen"/>not much blame the poore women for ſo doing, they having beene much abuſed in this buſineſſe. For firſt, their Hu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bands are drawne from them by faire preten<g ref="char:EOLhyphen"/>ces and ſugred words, that they ſhall goe no further then their owne Countrey, and yet have beene drilled to all the places before mentioned: and as for thoſe great Victories they have gained neere their owne Countrey, eſpecially that which our demy-God <hi>Greenvile</hi> obtained the other day againſt <hi>Plymouth,</hi> and yet never a day of Triumph for it, nor ever ſet forth by <hi>Aulicus,</hi> to their never-dying honour, and the comfort of their Wives and Children: wherefore they will no longer be thus fool'd (as they have beene) but make <hi>Aulicus</hi> exemplarie, by
+<pb n="6" facs="tcp:110885:4"/>bringing him to ſuch condigne puniſhment, as by the de<g ref="char:EOLhyphen"/>finitive ſentence and verdict of thiteen Women ſhall be thought fit, feven of which ſhall be <hi>Corniſh</hi> women, and the other ſix ſhall come from over the Mountaines in <hi>Wales,</hi> whoſe 13. husbands were reported by <hi>Aulicus</hi> (in his lying pamphlets) to be dead and alive 26 times during the ſiege of <hi>Gloſter,</hi> where we gained another world for almoſt 2000. of our men we brought thither, and many witneſſes are now come againſt him from ſeverall parts of this Kingdome, namly from <hi>Cornwall, Somerſet,</hi> and <hi>Oxford</hi>-ſhire. For that in <hi>Cornwall</hi> (tis true) we had an extraordinary Victory where we got Ordnance and ſome Ammunition, <hi>(but it was by treachery)</hi> which made <hi>Aulicus</hi> lie lowdly, for that he ſet forth it was gained with the loſſe of not above 100. men. Now here comes 200. women into the Court againſt him that loſt their Hu bands in that fight, and demanded accompt of the o<g ref="char:EOLhyphen"/>verplus according to their reckoning.</p>
+            </sp>
+            <sp>
+               <speaker>Author.</speaker>
+               <p>(But Courtious Reader) what great miſſe will there be of all the Widdowes and Batchelers that were loſt in the fight, (for doubtleſſe they were not all married men) for procreation of male Children, <hi>to ſearue the King in this vncivill Civill Warre against his best Subjects.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>in <hi>Sumerſet</hi>-ſheir and <hi>Mendiſſe</hi> we had a great victory there in compelling Colonell <hi>Cary</hi> to march out of <hi>Wels,</hi> we did but retreat ſo fall as we could run, Sir <hi>William Waller</hi> perſuing us nine mile in the reare, yet then <hi>Aulicus</hi> in his paſquill ſet forth that we had not loſt a<g ref="char:EOLhyphen"/>bove 10. men, and now there is come above 60. Maides that loſt their beſt beloveds in that fight, and demanded accompt of their overplus as before mentioned.</p>
+               <p>In <hi>Oxford-ſhire</hi> we gained another great victory a<g ref="char:EOLhyphen"/>gainſt
+<pb n="7" facs="tcp:110885:4"/>Sir <hi>William Waller</hi> with the loſſe of not above ſix or ſeven men: and two horſes, as <hi>Aulicus</hi> ſet forth in his lying pamphlet at moſt, and hear's 12 of his own kindred and 20 others, who hearing of his arraignment having loſt in that fight their kindred and ſervants are all come to demand an accompt for the remainer being all gener<g ref="char:EOLhyphen"/>ally reſolued to witneſſe againſt him, and make exam<g ref="char:EOLhyphen"/>plary for his notorious abuſing of al their Sex, which have cauſed them thus to proceed in iudgement againſt him.</p>
+               <p n="1">1 For that his lying Libels ſtuft with nothing but de<g ref="char:EOLhyphen"/>ceitfull glozings, have tended to nought elſe, but to ani<g ref="char:EOLhyphen"/>mate and encourage their Husbands, and Friends to per<g ref="char:EOLhyphen"/>ſiſt in this unnaturall war; They have therefore ſenten<g ref="char:EOLhyphen"/>ced him as followeth.</p>
+               <p n="1">1 To ſtand in the Pillory three Market dayes in <hi>Oxford.</hi>
+               </p>
+               <p n="2">2 To have a Writing over his head in great Chara<g ref="char:EOLhyphen"/>cters, in theſe words, <hi>Woe be unto you Oxonian Libellers</hi> take warning by this Preſident here before you, who hath ſo long walked in Egyptian darkeneſſe, til at laſt hee is brought here to looſe his ears in this Wood of ſhame and reproach.</p>
+               <p n="3">3 That hee ſhall beg forgiveneſſe (with all humility) for his ſo great and hainous offences againſt <hi>Mercurius Britanicus,</hi> &amp; all others that have proſecuted againſthim.</p>
+               <p n="4">4 That hee ſhall be utterly diſabled from writing in darkeneſſe, and publiſhing in the light any more Libel<g ref="char:EOLhyphen"/>lous books for one yeere, during which terme he is to be in cuſtody of thoſe thirteen Women, who are to inflict fuch corporall puniſhment on him, as they in their wo<g ref="char:EOLhyphen"/>menly diſcretion ſhall thinke fit.</p>
+               <p n="5">5 That before two moneths expiration he be cut of the ſimples, and his brains be taken out, waſht in white wine, and put in againe.</p>
+               <pb n="8" facs="tcp:110885:5"/>
+               <p n="6">6 That for every morning during the ſaid time he have one meſſe of ſtewd broath made of the interlinings of fower Court Parazites, and the brains of 26. <hi>Oxford</hi> VVidgins boyled in the water of forgetfulneſſe.</p>
+               <p n="7">7 That hee may never hereafter have ſo much as one graiue of wit left him in his empty Hogſhead (his brains being taken out and waſht, as before is ordered) to ſcandalize thoſe, whom, if he had any grace he is bound to honour.</p>
+            </sp>
+            <sp>
+               <speaker>Smith.</speaker>
+               <p>Alas poore <hi>Aulicus,</hi> that ever any one man ſhould ſo misdemean himſelfe, as to come under the heavie cenſure of ſo many women; were it my caſe I would chuſe rather to be hanged out of the way, then thus bee tormented at the diſcretion of women, they will plague him ſhrewdly.</p>
+            </sp>
+            <sp>
+               <speaker>Author.</speaker>
+               <p>Reader it had been better for him to have followed his old trade to blow the Organ bellows of Chriſt Col<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edge) then thus aſpyring to be a Court Pleaſer, with phariſaicall ſtratagems, pleaſing the itching ears of thoſe who were inſtruſted with great honts in the Court and field, ſo to come to great preferment; in ſtead of which he is come to publick ſhame and infamy, his ſtudy was to publiſh very dangerous, and peſtilent doctrine; and to no other end, then to augment the miſunderſtanding between the King and his Parliament: when as it is the duty of every faithfull ſubject to labour to bring them rightly to underſtand each other, that ſo there might be an end of this unhappy diviſions. Let <hi>Au<g ref="char:EOLhyphen"/>licus</hi> know that is not the laſt cenſure he muſt undergoe (perhaps not in this life) but J am ſure there is a day wil come wherein he muſt tender a ſtrict account for every life that hath been loſt. By reaſon of that encouragement he has given in his ſeditious Libels for the furtheranse of this unnatural war: there is no way for him to eſcape further cenſure, but by diſclaiming al his former evil acts, &amp; making publike recanta<g ref="char:EOLhyphen"/>tion anſwerable to the hainouſnes of his ſeveral, &amp; unparaleld offences, wher<g ref="char:EOLhyphen"/>in he hath notoriouſly abuſed both King &amp; State, Prince &amp; people, no good men have ſcaped the laſhes of his ſcurrilous pen, eſpecially for that inſolent and audacious expreſſion of his, which I feare ere long will procure him a ſhamefull, and ſudden diſpatch of a long errand to another world: Namely, that both the hanourable Houſes of Parliament were but a pretended Parlia<g ref="char:EOLhyphen"/>ment: but now I hope by that time his 13. moneths dieting be expired, &amp; his body brought down by his aforeſaid phyſick, He will be glad to acknowledge them, what indeed they are, the true, lawfull, and abſolute Parliament of this Kingdom: and it is my hearty prayers, that who ever are found guilty of ſuch unheard of inſolency, to ſpurn at the authority &amp; power of this ſupream and Higheſt Court, as He hath done, may have the ſame reward at laſt, which by the known Laws of the Land is appointed for ſuch capitall offenders: who prefer their baſe and mercenary ends before the welfare of three Kingdoms.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:110885:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
